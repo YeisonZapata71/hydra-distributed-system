@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales de Microsoft Office (Word / PowerPoint)
+~$*
+*.tmp
+
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Documentos académicos (entregables LMS, no parte del prototipo de código)
+docs/
+ENTREGABLES_DOCS/
+generate_*.py
+benchmark_results.json
